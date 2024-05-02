@@ -23,6 +23,8 @@ bash
 Copy code
 python flask_server.py
 Esto iniciará el servidor en la dirección http://127.0.0.1:5000/.
+
+
 Paso 2: Ejecutar el Cliente
 Abre otra terminal o línea de comandos.
 Navega al directorio que contiene el archivo client.py y la imagen que deseas enviar.
